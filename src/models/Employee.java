@@ -100,7 +100,7 @@ public class Employee {
         this.admin_flag = admin_flag;
     }
 
-    public Timestamp created_at() {
+    public Timestamp getCreated_at() {
         return created_at;
     }
 
