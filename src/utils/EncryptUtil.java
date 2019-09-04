@@ -7,7 +7,7 @@ import javax.xml.bind.DatatypeConverter;
 
 public class EncryptUtil {
 
-    public static String getpasswordEncrypt(String plain_p, String salt) {
+    public static String getPasswordEncrypt(String plain_p, String salt) {
         String ret = "";
 
 
